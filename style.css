@@ -38,7 +38,7 @@ body {
 
 .dogInfo {
   justify-content: center;
-  height: 40vh;
+  height: 45vh;
   width: 60vh;
 }
 
@@ -96,7 +96,7 @@ span {
   color: #2196F3;
   width: 60vh;
   padding: 5px;
-  margin-top: 48px;
+  margin-top: 50px;
 }
 
 .dogFooterInfo {
@@ -104,8 +104,7 @@ span {
   padding: 0 10px 0 10px;
 }
 
-@media only screen and (max-width: 400px) {
-
+@media screen and (max-width: 400px) {
   .dogFooter {
     margin-top: 55px;
   }
