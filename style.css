@@ -103,3 +103,9 @@ span {
   display: flex;
   padding: 0 10px 0 10px;
 }
+
+@media only screen and (max-width: 400px) {
+  .dogFooter {
+    margin-top: 55px;
+  }
+}
