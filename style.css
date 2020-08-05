@@ -105,6 +105,10 @@ span {
 }
 
 @media only screen and (max-width: 400px) {
+  body {
+    background-color: red;
+  }
+
   .dogFooter {
     margin-top: 55px;
   }
